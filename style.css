@@ -291,7 +291,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./img/pic.jpg);
+    /* background-image: url(./img/pic.jpg); */
     background-size: cover;
     background-position: bottom;
     margin: 10px 5%;
@@ -306,8 +306,8 @@ p{
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-    opacity: .8;
+    background-image: linear-gradient(60deg, #737c86 0%, #485563 100%);
+    opacity: .5;
     z-index: -1;
 }
 #services .service-bottom .icon{
@@ -389,7 +389,7 @@ p{
     height: 100%;
     width: 100%;
     background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-    opacity: .7;
+    opacity: .1;
 }
 #projects .project-img img{
     transition: .3s ease transform;
